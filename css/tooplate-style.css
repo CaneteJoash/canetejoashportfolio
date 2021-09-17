@@ -294,6 +294,11 @@ b, strong {
   font-size: 30px;
   color: #ffffff;
 }
+.color-mode{
+  max-width: 100%;
+  height: auto;
+}
+
 
 .dark-mode {
   background: #0c0c0d;
@@ -404,7 +409,7 @@ b, strong {
   font-size: inherit;
 }
 .owl-theme .owl-nav [class*=owl-]:hover {
-  color: #ffc200;
+  color: #ffc200!important;
 }
 .owl-theme .owl-dots .owl-dot {
   outline: none;
