@@ -450,7 +450,10 @@ hr {
 .img-fluid {
     max-width: 100%;
     height: auto;
-    padding-top: 15rem;
+    padding-top: 20rem;
+    padding-left: 5rem;
+    padding-right: 5rem;
+
     /* box-shadow: inset 0 0 0px #000000;
             box-shadow: 3px 3px 5px 6px #ccc;
             -webkit-box-shadow: 3px 3px 5px 6px #ccc; */
@@ -461,6 +464,8 @@ hr {
     background-image: url(images/project/711.gif);
     height: auto;
     padding-top: 20rem;
+    padding-left: 5rem;
+    padding-right: 5rem;
     /* width: 50px;
     height: auto;
     border: 2px solid;
