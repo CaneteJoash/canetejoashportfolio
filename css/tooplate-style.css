@@ -1,11 +1,3 @@
-/*
-
-Tooplate 2115 Marvel
-
-https://www.tooplate.com/view/2115-marvel
-
-*/
-
 
 @import url("https://fonts.googleapis.com/css?family=Maven+Pro:400,700");
 body {
@@ -116,7 +108,7 @@ b, strong {
 }
 
 .animated-item {
-  color: #16c224;
+  color: #ffc200;
 }
 
 .animated-item {
@@ -140,9 +132,7 @@ b, strong {
 .animated-item:nth-child(4n+4) {
   animation-delay: 6s;
 }
-
-
-
+/* I ADDED THIS */
 
 @keyframes BottomTotop {
   0% {
@@ -294,15 +284,10 @@ b, strong {
   font-size: 30px;
   color: #ffffff;
 }
-.color-mode{
-  max-width: 100%;
-  height: auto;
-}
-
 
 .dark-mode {
   background: #0c0c0d;
-} 
+}
 .dark-mode .navbar-light .navbar-nav .nav-link {
   color: rgba(255, 255, 255, 0.8);
 }
@@ -409,7 +394,7 @@ b, strong {
   font-size: inherit;
 }
 .owl-theme .owl-nav [class*=owl-]:hover {
-  color: #ffc200!important;
+  color: #ffc200 !important;
 }
 .owl-theme .owl-dots .owl-dot {
   outline: none;
